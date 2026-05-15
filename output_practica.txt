@@ -1,0 +1,15 @@
+total 1740
+Drwxrwxr-x 3 DaDigoes DaDigoes   4096 Dec  4 14:27 .
+Drwxrwxr-x 3 DaDigoes DaDigoes   4096 Dec  3 10:58 ..
+-rw-rw-r-- 1 DaDigoes DaDigoes      0 Dec  4 14:26 err_practica.txt
+-rw-rw-r-- 1 DaDigoes DaDigoes    610 Nov 26 13:12 input_practica.txt
+-rw-rw-r-- 1 DaDigoes DaDigoes  20730 Nov 21 17:31 libparser.a
+-rw-rw-r-- 1 DaDigoes DaDigoes      0 Nov 29 10:53 ls
+-rwxrwxr-x 1 DaDigoes DaDigoes 865440 Dec  4 14:27 myshell
+-rw-rw-r-- 1 DaDigoes DaDigoes   6761 Dec  4 14:22 myshell.c
+Drwxrwxr-x 2 DaDigoes DaDigoes   4096 Dec  4 14:13 myshell_copias
+-rw-rw-r-- 1 DaDigoes DaDigoes   1024 Dec  4 14:21 .myshell.c.swp
+-rw-rw-r-- 1 DaDigoes DaDigoes    870 Dec  4 14:26 output_practica.txt
+-rw-rw-r-- 1 DaDigoes DaDigoes    267 Nov 21 17:31 parser.h
+-rwxrwxr-x 1 DaDigoes DaDigoes 847088 Nov 21 17:57 test
+-rw-rw-r-- 1 DaDigoes DaDigoes    879 Nov 21 17:37 test.c
